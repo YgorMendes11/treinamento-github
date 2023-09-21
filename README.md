@@ -3,5 +3,8 @@ Repositório criado para treinamento das funcionalidades do Github, seguindo o c
 
 criando um cadastro de jogos
 
-
+```
 node app.js
+```
+
+WOW
